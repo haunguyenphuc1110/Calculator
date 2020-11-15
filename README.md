@@ -1,25 +1,9 @@
 # Calculator
 
-- Simple layout design with TableLayout, LinearLayout
-- Support multiple screens sizes
-- Handle calculating operations "+ - * /". The +/- and %
-   is your part
+### Prototype Android app of IOS style calculator with history actions written in Kotlin. 
+- Simple layout design with GridLayout, LinearLayout
+- Handle calculating operations "+   -   *   /   %   √   1/x   %   x²   ±", comma, backspace , CE, C functions also.
 
- **Multiple screens Instruction:**
- These are some kind of screens that you have to support: ldpi, mdpi, hdpi, xhdpi, xxhdpi, xxxhdpi
- You have to do this for every Ativity that you need it to be supported.
+It is created for self learning purpose to explore Kotlin language features.
 
- **Follow these steps:**
-
- 1. Add new resource file in layout folder
-
- 2.  Name that new file by the name of the root activity. And the
-    directory shoud follow this convention: layout-ldpi or
-    layout-xxxhdpi
-
- 3.   Use Design tab and choose the device with suitable kind of screen to
-    see your layout in that screen
-
- 4.  Change the layout if needed
-
-<img align="center" alt="GIF" src="https://github.com/haunguyenphuc1110/Calculator/blob/master/demo.gif?raw=true"/>
+<img align="center" alt="GIF" src="https://github.com/haunguyenphuc1110/Calculator/blob/master/demo.gif?raw=true" height="1000"/>
