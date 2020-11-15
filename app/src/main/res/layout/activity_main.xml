@@ -204,7 +204,7 @@
             android:text="@string/value_9" />
 
         <Button
-            android:id="@+id/btnMultiple"
+            android:id="@+id/btnMultiply"
             style="@style/CalculatorButton.Action"
             android:layout_width="0dp"
             android:layout_height="0dp"
